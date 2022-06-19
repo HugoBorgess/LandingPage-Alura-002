@@ -1,2 +1,2 @@
-# LandingPage-Alura-002
- 
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
